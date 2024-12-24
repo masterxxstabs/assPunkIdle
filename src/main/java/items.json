@@ -1,0 +1,101 @@
+{
+  "Food" : [
+    {
+      "id" : 1,
+      "name" : "Hot Dog",
+      "price" : 0.99,
+      "weight" : 0.001,
+      "energyReturn" : 0.10,
+      "sprite" : "assets/Textures/Items/hotdogSprite.png",
+      "description" : "A neat package of ham and chicken, incased in pig intestine. Surrounded by wenderbread."
+    },
+    {
+      "id" : 2,
+      "name" : "Bennys Soda",
+      "price" : 1.50,
+      "weight" : 0.005,
+      "energyReturn" : 0.05,
+      "sprite" : "assets/Textures/Items/sodaSprite.png",
+      "description" : "A carbonated soda from bennys ;>."
+    },
+    {
+      "id" : 3,
+      "name" : "Bennys Burger",
+      "price" : 10.00,
+      "weight" : 0.5,
+      "energyReturn" : 0.5,
+      "sprite" : "assets/Textures/Items/burgerSprite.png",
+      "description" : "A simple smash burger from bennys ;>."
+    },
+    {
+      "id" : 4,
+      "name" : "Protein Powder",
+      "price" : 25.00,
+      "weight" : 0.5,
+      "energyReturn" : 0.5,
+      "sprite" : "assets/Textures/Items/proteinpowderSprite.png",
+      "description" : "protein powder that boost xp gain for [STR], [END]."
+    },
+    {
+      "id" : 5,
+      "name" : "Beef Stick",
+      "price" : 3.00,
+      "weight" : 0.001,
+      "energyReturn" : 0.5,
+      "sprite" : "assets/Textures/Items/beefstickSprite.png",
+      "description" : "Beef Stick that returns some energy, is it even real?"
+    },
+    {
+      "id" : 6,
+      "name" : "Nachos",
+      "price" : 5.00,
+      "weight" : 1.00,
+      "energyReturn" : 1.0,
+      "sprite" : "assets/Textures/Items/nachosSprite.png",
+      "description" : "Your basic gas station nachos."
+    },
+    {
+      "id" : 7,
+      "name" : "Candy Bar",
+      "price" : 1.00,
+      "weight" : 0.001,
+      "energyReturn" : 0.02,
+      "sprite" : "assets/Textures/Items/candybarSprite.png",
+      "description" : "A candy bar made of chocolate."
+    },
+    {
+      "id" : 8,
+      "name" : "Chips",
+      "price" : 1.00,
+      "weight" : 0.001,
+      "energyReturn" : 0.02,
+      "sprite" : "assets/Textures/Items/chipsSprite.png",
+      "description" : "A bag of chips."
+    }
+],
+  "Weapons" : [
+    {
+      "id" : 9,
+      "name" : "Pistol",
+      "price" : 250,
+      "weight" : 5.0,
+      "value" : 0,
+      "damage" : 1.0,
+      "sprite" : "assets/Textures/Items/handgunSprite.png",
+      "description" : "A basic handgun for shooting things or people ;>, this is a testing item, how did you get this?"
+    },
+    {
+      "id" : 10,
+      "name" : "Shot Gun",
+      "price" : 1000,
+      "weight" : 15.0,
+      "value" : 0,
+      "damage" : 1.0,
+      "sprite" : "assets/Textures/Items/shotgunSprite.png",
+      "Description" : "A basic scatter gun this is a testing item, how did you get this?"
+    }
+  ],
+  "Misc Items" : [
+
+  ]
+}
